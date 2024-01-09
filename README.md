@@ -16,6 +16,8 @@ By: [Vincent Toon](https://github.com/Vincenttoon)
 
 ## Table of Contents
 
+* [Live Deployment](#live-deployment)
+
 * [Installation](#installation)
 
 * [Usage](#usage) 
@@ -23,6 +25,10 @@ By: [Vincent Toon](https://github.com/Vincenttoon)
 * [Things Learned](#things-learned)
 
 * [Questions?](#questions)
+
+## Live Deployment
+
+[Live Deployment for Testing Nav Bar](https://reactnavbar-vwtd.vercel.app/)
 
 ## Installation
 
