@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
 
 import { BiMenuAltRight } from "react-icons/bi";
 import { AiOutlineClose } from "react-icons/ai";
@@ -28,10 +27,6 @@ const Header = () => {
   const menuToggleHandler = () => {
     setMenuOpen((p) => !p);
   };
-
-  const ctaClickHandler = () => {
-    
-  }
 
   return (
     <header className={classes.header}>
